@@ -1,0 +1,5 @@
+{
+  "name": "Paradise Nursery",
+  "description": "A houseplant shopping web app where users can browse plants, add them to a cart, and manage their shopping cart before checkout.",
+  "requestFramePermissions": []
+}
